@@ -1,0 +1,8 @@
+{
+  "name": "Catch of the Day",
+  "version": 2,
+  "builds": [
+    { "src": "./build/static/js/main.f8ebcbb6.chunk.js", "use": "@now/node" },
+    { "src": "./build/index.html", "use": "@now/static" }
+  ]
+}
